@@ -1,0 +1,1 @@
+Flat gombot létrehozása, áttűnéssel.

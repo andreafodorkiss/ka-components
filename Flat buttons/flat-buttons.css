@@ -1,0 +1,50 @@
+/* ==== GENERAL STYLES ==== */
+
+body {
+  background-color: #eee;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+section {
+  max-width: 470px;
+  padding: 10px;
+  margin: 20px auto;
+  color: #333;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+h1 {
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+  margin-bottom: 10px;
+}
+
+/* ==== A FLAT BUTTON EXAMPLE ==== */
+
+.button-nav {
+  display: inline-block;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  font-size: 1rem;
+  line-height: 1.42857143;
+  padding: .8rem 1rem;
+  margin-bottom: 10px;
+  border: 1px solid #000;
+  white-space: nowrap;
+  vertical-align: middle;
+  color: #000;
+}
+
+/* Additional styles for "Buttons" */
+
+.button-nav:hover {
+  color: #fff;
+  background-color: #000;
+  transition: background color .15s ease-in-out;
+}
