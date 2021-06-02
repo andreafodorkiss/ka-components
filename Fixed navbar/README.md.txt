@@ -1,0 +1,1 @@
+Itt egy fix navbart hoztunk létre a felső sorban, bal oldali home gombbal és jobbra rendezett egyéb gombokkal.
