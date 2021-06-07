@@ -1,0 +1,1 @@
+Egész oldalt betöltő header. Remek választás pl cikk fölé.
